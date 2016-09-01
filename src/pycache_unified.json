@@ -1,0 +1,17 @@
+{
+   "ExecutionType" : "step",
+   "Hardware" : [
+      {  "Type" : "CPU",
+         "Frequency" : "2G",
+         "TraceFile" : "simulation_files/trazas1.txt"
+      },
+      {  "Type" : "Cache_Unified",
+         "Size" : "2K"
+      },
+      {
+         "Type" : "Memory",
+         "Size" : "256M",
+         "Frequency" : "3000M"
+      }
+   ]
+}

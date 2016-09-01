@@ -1,0 +1,16 @@
+{
+	"ExecutionType": "Direct",
+	"TraceFile":"trazas1.txt",
+	"Hardware": {
+		"CPU": {
+			"Frequency": "88G",
+			"Size": "756745M"
+		},
+		"Memory": {
+			"Size": "500000M"
+		},
+		"Cache_Unified": {
+		    "Size": "10M"
+		} 
+	}
+}
